@@ -1,0 +1,102 @@
+<resources>
+
+<!--define strings that will be used in application-->
+<string name="app_name">JourneyJournal</string>
+<!-- TODO: Remove or change this placeholder text -->
+<string name="Email">Email</string>
+<string name="Password">Password</string>
+<string name="Remember_me">Remember me?</string>
+<string name="Sign_in">Sign In</string>
+<string name="Forgot_Password"><u>Forgot Password?</u></string>
+<string name="or">OR</string>
+<string name="or_signup">New User | <u>Sign Up!</u></string>
+<string name="full_name">Full Name</string>
+<string name="Confirm_pass">Confirm Password</string>
+<string name="sign_up">Sign Up</string>
+<string name="or_signin">Already have an account | <u>Sign In!</u></string>
+<string name="Forgot_Password_text">Forgot Password?</string>
+<string name="Forgot_Password_text2">Don\'t worry we just need your\n registered email address and its done!</string>
+<string name="reset_password">Reset Password</string>
+<string name="go_back"><u><![CDATA[<<Go Back]]></u></string>
+<string name="pass_min">Password must be minimum 6 characters!</string>
+<string name="recovert_email">Recovery email sent successfully ! Check your Inbox.</string>
+<string name="title_activity_main">MainActivity</string>
+<string name="navigation_drawer_open">Open navigation drawer</string>
+<string name="navigation_drawer_close">Close navigation drawer</string>
+<string name="nav_header_title">Android Studio</string>
+<string name="nav_header_subtitle">android.studio@android.com</string>
+<string name="nav_header_desc">Navigation header</string>
+<string name="icon_search">Search</string>
+<string name="icon_notification">Notificaton</string>
+<string name="menu_home">Home</string>
+<string name="menu_gallery">Gallery</string>
+<string name="menu_slideshow">Slideshow</string>
+<string name="view_all_journal">View All Journal</string>
+<string name="graphs">Graphs</string>
+<string name="map">Map</string>
+<string name="my_account">My Account</string>
+<string name="sign_out">Sign Out</string>
+<string name="about_us"><u>About Us</u></string>
+<string name="privacy_policy"><u>Privacy Policy</u></string>
+<string name="journeyjournal"><u>JourneyJournal</u></string>
+<string name="version">Version 1</string>
+<string name="action_settings">Settings</string>
+<!-- TODO: Remove or change this placeholder text -->
+<string name="hello_blank_fragment">Hello blank fragment</string>
+<string name="add_new_journal">Add New Journal</string>
+<string name="journal_title">Journal Title</string>
+<string name="change_image">Click above to upload or change current image</string>
+<string name="about_journal">About Journal</string>
+<string name="add_journal">Add Journal</string>
+<string name="location">Location</string>
+<string name="about_us1">About Us</string>
+
+<string name="journals">Journals</string>
+<string name="privacy_policy1">Privacy Policy</string>
+<string name="version1">Version</string>
+<string name="edit_journal">Update Journal</string>
+<string name="open">open</string>
+<string name="close">close</string>
+<string name="title_activity_journal_details">JournalDetails</string>
+<!-- Strings used for fragments for navigation -->
+<string name="first_fragment_label">First Fragment</string>
+<string name="second_fragment_label">Second Fragment</string>
+<string name="next">Next</string>
+<string name="previous">Previous</string>
+
+<string name="hello_first_fragment">Hello first fragment</string>
+<string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+<string name="title_activity_add_journal">AddJournal</string>
+<string name="edit_journey_title">Edit Journey Title</string>
+<string name="edit_location">Edit Location</string>
+<string name="edit_about_journal">Edit About Journal</string>
+<string name="update_journal">Update Journal</string>
+<string name="latlong">longitude and latitude</string>
+
+
+<!--    extra pages details-->
+<string name="about_journeyjournal">This is Project made by Atish Ojha who is currently studying at  ISMT College.\n\n Thank You for using the app.</string>
+
+
+<string name="privacy_policy_journeyjournal">This privacy notice for JourneyJournal describes how and why we might collect,
+    store, use, and/or share (process) your information when you use our services (Services), such as when you:\n\n
+    \n\n We collect personal information that you voluntarily provide to us when you register on the Services, express an interest in obtaining information about us or our products and services, when you participate in activities on the Services, or otherwise when you contact us.
+
+    \n\n We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and comply with the law. We may also process your information for other purposes with your consent.
+
+    \n\n We may use cookies and other tracking technologies to collect and store your information.
+
+    \n\n We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
+
+    \n\n We aim to protect your personal information through a system of organizational and technical security measures.
+
+    \n\n We will update this notice as necessary to stay compliant with relevant laws.
+</string>
+
+
+<string name="version_journeyjournal">This is first version of Application. Soon I will Push an updated version which fixes te bugs that are inside application.s
+\n\n\n Thank You for using the app.
+</string>
+
+
+</resources>

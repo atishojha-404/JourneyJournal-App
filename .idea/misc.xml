@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable-anydpi/ic_gps.xml" value="0.1" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.241" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/black_border.xml" value="0.1" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_arrow_left_solid.xml" value="0.1" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.105" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.1075" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_baseline_mail_outline.xml" value="0.1" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_baseline_mail_outline_24.xml" value="0.105" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_baseline_mark_email_read_24.xml" value="0.1" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.161" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_camera_solid.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_chart_line_solid.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_circle_plus_solid.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_circle_user_solid.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_circle_xmark_solid.xml" value="0.1" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_ellipsis_vertical_solid.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_eye_slash_solid.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_grip_solid.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_house_solid.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_images_solid.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_launcher_background.xml" value="0.241" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_location_arrow_solid.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_location_dot_solid.xml" value="0.1" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_map_location_dot_solid.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_menu_camera.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_pen_solid.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_power_off_solid.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_share_nodes_solid.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_trash_solid.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/ic_user_solid.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/side_nav_bar.xml" value="0.169" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/drawable/splash_activity_background.xml" value="0.1" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/font/app_name_font.xml" value="0.11121408711770157" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/font/bradley_hand_itc.xml" value="0.11121408711770157" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/font/font.xml" value="0.23005487547488393" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/activity_about_us.xml" value="0.21359649122807017" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/activity_add_journal.xml" value="0.264" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/activity_app_link.xml" value="0.21359649122807017" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/activity_edit_journal.xml" value="0.21359649122807017" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/activity_full_screen_image.xml" value="0.21082251082251083" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/activity_gallery.xml" value="0.1" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/activity_journal_details.xml" value="0.21082251082251083" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/activity_login.xml" value="0.15555555555555556" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/activity_map.xml" value="0.2" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/activity_privacy_policy.xml" value="0.21359649122807017" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/activity_register.xml" value="0.20820863616930313" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/activity_sign_up.xml" value="0.15555555555555556" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/activity_splash.xml" value="0.20555555555555555" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/activity_version.xml" value="0.21359649122807017" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/app_bar_main.xml" value="0.2" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/black_border.xml" value="0.1" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/content_add_journal.xml" value="0.14074074074074075" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/content_edit_journal.xml" value="0.21082251082251083" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/content_journal_details.xml" value="0.2" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/content_main.xml" value="0.21096491228070174" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/fragment_about_us.xml" value="0.21082251082251083" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/fragment_add_journal.xml" value="0.21359649122807017" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/fragment_app_link.xml" value="0.20820863616930313" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/fragment_edit_journal.xml" value="0.21359649122807017" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/fragment_gallery.xml" value="0.20820863616930313" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/fragment_graph.xml" value="0.20820863616930313" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/fragment_home.xml" value="0.20820863616930313" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/fragment_map.xml" value="0.20820863616930313" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/fragment_my_account.xml" value="0.20820863616930313" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/fragment_notification.xml" value="0.20820863616930313" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/fragment_privacy_policy.xml" value="0.20820863616930313" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/fragment_reset_password.xml" value="0.2" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/fragment_search.xml" value="0.20820863616930313" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/fragment_sign_in.xml" value="0.2" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/fragment_sign_up.xml" value="0.20820863616930313" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/fragment_slideshow.xml" value="0.20820863616930313" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/fragment_version.xml" value="0.20820863616930313" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/fragment_viewalljournal.xml" value="0.20820863616930313" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/journal_rv_item.xml" value="0.21359649122807017" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/journal_view_layout.xml" value="0.18425925925925926" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/myexame_forjournal_view_layout.xml" value="0.21359649122807017" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/nav_foot_main.xml" value="0.20820863616930313" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/nav_footer_main.xml" value="0.20820863616930313" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/nav_header.xml" value="0.21096491228070174" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/layout/nav_header_main.xml" value="0.176" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/menu-v26/main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/menu/activity_main_drawer.xml" value="0.20820863616930313" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/menu/bottom_menu.xml" value="0.1" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/menu/menu.xml" value="0.20820863616930313" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/menu/menu_bottom_bar.xml" value="0.21359649122807017" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/menu/mmm.xml" value="0.21359649122807017" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/menu/nav_menu.xml" value="0.21096491228070174" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.241" />
+        <entry key="..\:/Level 6/Android Mobile Development/Programs/JourneyJournal/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.241" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

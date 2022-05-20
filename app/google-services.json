@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338249309105",
+    "project_id": "journeyjournal-b2a9e",
+    "storage_bucket": "journeyjournal-b2a9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338249309105:android:e04cdd72e7e8ebbec4fb90",
+        "android_client_info": {
+          "package_name": "com.atish.journeyjournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338249309105-mhsqvunitinff0m9g043t6frq5vqde00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlP2p-BrRpaDxLEOq6zLwmh_f7ZMtO7VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338249309105-mhsqvunitinff0m9g043t6frq5vqde00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

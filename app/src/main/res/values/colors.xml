@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--define colors that will be used in application-->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#FF232527</color>
+    <color name="ash">#FFBDBABA</color>
+    <color name="pink">#FFFBD2CB</color>
+    <color name="green">#FF3EB255</color>
+    <color name="orange">#FFF56920</color>
+    <color name="btnpink">#FFFBD2CB</color>
+    <color name="btntxt">#FF152668</color>
+    <color name="btntxtdisable">#50152668</color>
+    <color name="alert">#FF0000</color>
+
+<!--    to show different colors -->
+    <color name="yellow">#FFE66E</color>
+    <color name="lightGreen">#a0ef9a</color>
+    <color name="pink1">#ffaedf</color>
+    <color name="lightPurple">#d7afff</color>
+    <color name="skyblue">#9edfff</color>
+    <color name="gray">#e0e0e0</color>
+    <color name="red">#DB4848</color>
+    <color name="blue">#8C9EFF</color>
+    <color name="greenlight">#96D162</color>
+    <color name="notgreen">#EA80FC</color>
+</resources>

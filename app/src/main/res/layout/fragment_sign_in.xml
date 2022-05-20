@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--to scroll page-->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <FrameLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context=".Auth.SignInFragment">
+
+        <!-- TODO: Update Sign In fragment layout -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+<!--            close button-->
+            <ImageButton
+                android:id="@+id/close"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:background="@android:color/transparent"
+                android:padding="16dp"
+                android:src="@drawable/ic_circle_xmark_solid" />
+
+<!--            logo-->
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@mipmap/logo" />
+
+<!--            email input-->
+            <com.google.android.material.textfield.TextInputLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/emailLayout"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_margin="20dp"
+                android:textColorHint="@color/ash">
+
+                <EditText
+                    android:id="@+id/email"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:inputType="textEmailAddress"
+                    android:hint="@string/Email"
+                    android:textColor="@color/black" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+<!--            password input-->
+            <com.google.android.material.textfield.TextInputLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/passwordLayout"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_margin="20dp"
+                app:passwordToggleEnabled="true"
+                app:passwordToggleTint="@color/background"
+                android:textColorHint="@color/ash">
+
+                <EditText
+                    android:id="@+id/password"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:inputType="textPassword"
+                    android:hint="@string/Password"
+                    android:textColor="@color/black" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+<!--            check box for remember me-->
+            <CheckBox
+                android:id="@+id/rememberme"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:checked="false"
+                android:text="@string/Remember_me"
+                android:textColor="@color/ash"
+                android:textSize="20sp" />
+
+            <ProgressBar
+                android:id="@+id/signin_progess"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:visibility="invisible"/>
+
+<!--            signin button-->
+            <Button
+                android:id="@+id/signinbtn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:backgroundTint="@color/pink"
+                android:padding="10dp"
+                android:text="@string/Sign_in"
+                android:textColor="@color/btntxtdisable"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:enabled="false"/>
+
+<!--            forgot password button-->
+            <TextView
+                android:id="@+id/forgotpass"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="center"
+                android:text="@string/Forgot_Password"
+                android:textColor="@color/ash"
+                android:textSize="20sp" />
+
+<!--            or text-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="20dp"
+                android:gravity="center"
+                android:text="@string/or"
+                android:textColor="@color/ash"
+                android:textSize="20sp" />
+
+<!--            new account button-->
+            <TextView
+                android:id="@+id/orsign_up"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="20dp"
+                android:gravity="center"
+                android:text="@string/or_signup"
+                android:textColor="@color/ash"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+    </FrameLayout>
+</ScrollView>
